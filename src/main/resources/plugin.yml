@@ -1,0 +1,4 @@
+name: Ares
+version: '${version}'
+main: co.aegis.ares.Ares
+api-version: 1.19
